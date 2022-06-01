@@ -113,7 +113,7 @@ section:nth-of-type(2n){
 }
 .section-heading span{
     font-size: 40px;
-    color: #2875a4;
+    color: #34135D;
     display: inline-block;
     margin-right: 0.5rem;
 }
@@ -138,13 +138,12 @@ section:nth-of-type(2n){
     border-radius:1rem;
     height: 2rem;
     margin: 20px 30px;
-    text-align: left;
+    text-align: center;
     box-shadow: 1px 1px 2px 1px #b9b9b9 inset;
     
 }
 .skills-display>.skill-progress>div{
     padding-top: 7px;
-    padding-left: 30px;
     box-sizing: border-box;
 }
 .skill-progress span{
@@ -174,16 +173,19 @@ section:nth-of-type(2n){
             height: inherit;
         }
         .mb-blue{
-            background-color: #2857a4;
+            background-color: #668BFA;
         }
         .mb-teal {
-            background-color: #0b8176;
+            background-color: #34135D;
         }
         .mb-red{
-            background-color: #FF2E63;
+            background-color: #BE73BB;
         }
         .mb-black{
-            background-color: #252A34;
+            background-color: #CE8983;
+        }
+        .mb-grey{
+            background-color: #6430D7;
         }
 
         .skills-display>.ssk{
